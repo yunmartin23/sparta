@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.liquidity_cache/
+# 분석 스크립트가 다시 받아오거나 생성하는 파일
+bear_dc_analysis/data/
+bear_dc_analysis/*.csv
